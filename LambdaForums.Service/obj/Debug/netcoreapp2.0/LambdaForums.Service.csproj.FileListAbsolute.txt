@@ -1,0 +1,12 @@
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Service.deps.json
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Service.dll
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Service.pdb
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Data.dll
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\bin\Debug\netcoreapp2.0\LambdaForums.Data.pdb
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.csproj.AssemblyReference.cache
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.AssemblyInfoInputs.cache
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.AssemblyInfo.cs
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.csproj.CoreCompileInputs.cache
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.csproj.CopyComplete
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.dll
+E:\Study\.NET Core\WesDoyle_Core2_MVC_Forum\LambdaForums\LambdaForums.Service\obj\Debug\netcoreapp2.0\LambdaForums.Service.pdb
